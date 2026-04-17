@@ -1,0 +1,31 @@
+======================================
+Setup started: Fri 17 Apr 2026 09:39:41 AM PDT
+======================================
+[2026-04-17 09:39:41] STEP: Project Configuration
+[2026-04-17 09:39:45] INFO: Project will be created as: attendance_tracker_test1
+[2026-04-17 09:39:45] Project name: attendance_tracker_test1
+[2026-04-17 09:39:45] STEP: Running Environment Health Check
+[2026-04-17 09:39:45] SUCCESS: Python3 found: Python 3.8.10
+[2026-04-17 09:39:45] SUCCESS: bc (calculator) found
+[2026-04-17 09:39:45] SUCCESS: tar found - archiving feature available
+[2026-04-17 09:39:45] SUCCESS: All health checks passed!
+[2026-04-17 09:39:45] INFO: Setting up project structure...
+[2026-04-17 09:39:46] STEP: Building Directory Structure
+[2026-04-17 09:39:46] SUCCESS: Directory structure created
+[2026-04-17 09:39:46] Created directory structure for: attendance_tracker_test1
+[2026-04-17 09:39:46] STEP: Populating Source Files
+[2026-04-17 09:39:46] SUCCESS: attendance_checker.py copied
+[2026-04-17 09:39:46] SUCCESS: assets.csv copied
+[2026-04-17 09:39:46] SUCCESS: reports.log copied
+[2026-04-17 09:39:46] SUCCESS: config.json created with default values
+[2026-04-17 09:39:46] All source files populated
+[2026-04-17 09:39:46] STEP: Configuring Attendance Thresholds
+[2026-04-17 09:40:33] SUCCESS: Thresholds updated: Warning=74%, Failure=49%
+[2026-04-17 09:40:33] Thresholds updated: warning=74, failure=49
+[2026-04-17 09:40:33] STEP: Configuring Run Mode
+[2026-04-17 09:40:42] SUCCESS: Run mode set to: dry_run
+[2026-04-17 09:40:42] Run mode configured: dry_run
+[2026-04-17 09:40:42] STEP: Initializing Git Repository
+[2026-04-17 09:40:48] SUCCESS: Git repository initialized with initial commit
+[2026-04-17 09:40:48] Git repository initialized in attendance_tracker_test1
+[2026-04-17 09:40:48] Setup completed successfully for: attendance_tracker_test1
